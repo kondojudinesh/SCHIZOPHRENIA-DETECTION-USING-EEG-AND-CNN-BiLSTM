@@ -1,0 +1,34 @@
+# API framework
+fastapi
+uvicorn
+python-multipart   # needed for FastAPI file uploads
+aiofiles           # needed for async file saving
+
+# Core ML / Deep Learning
+torch
+torchvision
+torchaudio
+einops             # needed for CNNBiLSTM model
+
+# EEG & signal processing
+mne
+scipy
+numpy
+pandas
+
+# Tabular ML utilities
+scikit-learn
+joblib
+tqdm
+
+# Visualization (for debugging / XAI)
+matplotlib
+seaborn
+
+# Explainability
+shap
+lime
+
+grad-cam
+
+
