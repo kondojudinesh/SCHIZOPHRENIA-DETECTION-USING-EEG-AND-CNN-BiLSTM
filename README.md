@@ -129,6 +129,10 @@ The data was carefully preprocessed and split to avoid data leakage.
 - Better performance compared to traditional machine learning models
 - Grad-CAM improves transparency and clinical trust
 
+![Picture1](https://github.com/user-attachments/assets/2f077a90-180f-4ff2-b340-0a3f7d3c57b3)
+
+
+
 ---
 
 ## 🏥 Applications
