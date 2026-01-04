@@ -132,6 +132,13 @@ The data was carefully preprocessed and split to avoid data leakage.
 ![Picture1](https://github.com/user-attachments/assets/2f077a90-180f-4ff2-b340-0a3f7d3c57b3)
 
 
+![IMG-20251103-WA0000](https://github.com/user-attachments/assets/67dcc123-fde9-4ae9-8155-c19d9760c9f4)
+
+
+![IMG-20251103-WA0003](https://github.com/user-attachments/assets/fa962241-cf54-4848-aadd-8fee642ae0ff)
+
+
+![IMG-20251103-WA0001](https://github.com/user-attachments/assets/25a1aef8-cc9e-4355-b39c-d5ebe388f803)
 
 ---
 
